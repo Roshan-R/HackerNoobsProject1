@@ -12,6 +12,7 @@
 ## Platforms
 ### Linux
 For linux users who love a cli interface, just download the [Linux.sh](https://raw.githubusercontent.com/Hacker-Noobs/HackerNoobsProject1/master/Platforms/Linux.sh) file and enjoy!
+<a href="https://raw.githubusercontent.com/Hacker-Noobs/HackerNoobsProject1/master/Platforms/Linux.sh">Download!</a>
 
 #### Dependencies
 - wget
